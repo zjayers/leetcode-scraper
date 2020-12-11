@@ -1,8 +1,7 @@
 # Leetcode-Scraper
-[![GitHub Release](https://img.shields.io/github/release/zjayers/leetcode-scraper.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/leetcode-scraper.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/leetcode-scraper.svg?style=flat)](https://github.com/zjayers/leetcode-scraper/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/leetcode-scraper.svg?style=flat)](https://github.com/zjayers/leetcode-scraper/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/leetcode-scraper.svg?maxAge=25000)](https://github.com/zjayers/leetcode-scraper/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/leetcode-scraper/blob/master/LICENSEs)
 
 ## Description
 
